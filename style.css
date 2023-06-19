@@ -2,11 +2,11 @@
 
 :root {
     --cor-de-fundo: #ebecee;
-    --branco: #FFFFFF
+    --branco: #ffffff;
     }
     
     body {
-    background-color: var(--cor-de-fundo) ;
+    background-color: var(--cor-de-fundo);
     }
     
     h1{
